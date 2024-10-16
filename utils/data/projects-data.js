@@ -26,7 +26,7 @@ export const projectsData = [
     },
     {
         id: 3,
-        name: 'AI Powered Real Estate',
+        name: 'Analysis of LEO Constellations and Supersonic Flights',
         description: 'WE explored the potential of low-earth orbit (LEO) constellations, analyzing their advantages for satellite communications and other applications.Also examined the implications of introducing supersonic flights, considering their benefits and the changes they would bring to existing flight models. This research aimed to provide a comprehensive outlook on the future of aerospace innovations.',
         tools: ['Data Analysis Software', 'Research Paper', 'Modelling Tools', 'Flight Simulation Data'],
         code: '',
